@@ -28,7 +28,7 @@ The proposed system was implemented using **Python and NVIDIA Sionna** and exper
 ### System Model
 <p align="center">
   <img src="figures/message_passing.png"
-       alt="Block Diagram"
+       alt="System Model"
        width="650">
 </p>
 
@@ -103,6 +103,12 @@ The Neural Receiver achieved a lower **Bit Error Rate (BER)** than the conventio
 
 The experimental results demonstrated a receiver performance improvement of more than:
 
+<p align="center">
+  <img src="figures/result_BER.png"
+       alt="SNR"
+       width="650">
+</p>
+
 > **5 dB**
 
 compared with the conventional LS-based receiver.
@@ -128,6 +134,12 @@ The processing time of the Neural Receiver was also compared with the convention
 | Neural Receiver (NRX) |           0.7 s |
 
 The Neural Receiver reduced the measured processing time by approximately:
+
+<p align="center">
+  <img src="figures/result_Time.png"
+       alt="Time"
+       width="650">
+</p>
 
 > **8.3×**
 
