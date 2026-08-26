@@ -14,6 +14,13 @@ This project develops a **Neural Network-Driven OFDM Receiver (NRX)** to enhance
 
 The proposed system was implemented using **Python and NVIDIA Sionna** and experimentally validated through an **SDR-based OTA communication platform**.
 
+## Block Diagram : 
+<p align="center">
+  <img src="figure/block_diagram.png"
+       alt="Block Diagram"
+       width="650">
+</p>
+
 ---
 
 ## System Architecture
