@@ -149,14 +149,8 @@ under the evaluated setup.
 
 ## Key Results
 
-* **5G NR 2×2 MIMO-OFDM** OTA communication platform
+* Real-world **5G NR 2×2 MIMO-OFDM** OTA communication platform
 * Neural-network-based receiver implemented with **Python and NVIDIA Sionna**
-* Real-world **SDR-based OTA transmission**
-* **>5 dB** receiver performance improvement compared with LS
-* BER reduced from **4.51 × 10⁻² to 4.73 × 10⁻³** in the demonstrated experiment
-* Processing time reduced from **5.8 s to 0.7 s**
-* Approximately **8.3× faster** processing under the evaluated setup
-* 🏆 **Outstanding Award** at the NSYSU College of Engineering Joint Project Competition & Exhibition
 
 ---
 
