@@ -16,7 +16,7 @@ The proposed system was implemented using **Python and NVIDIA Sionna** and exper
 
 ## Block Diagram : 
 <p align="center">
-  <img src="figure/block_diagram.png"
+  <img src="figures/block_diagram.png"
        alt="Block Diagram"
        width="650">
 </p>
