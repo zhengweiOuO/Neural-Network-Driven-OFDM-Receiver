@@ -16,7 +16,7 @@ The proposed system was implemented using **Python and NVIDIA Sionna** and exper
 
 ## Block Diagram : 
 <p align="center">
-  <img src="figures/block_diagram.png"
+  <img src="figures/block_diagram.jpg"
        alt="Block Diagram"
        width="650">
 </p>
@@ -24,6 +24,13 @@ The proposed system was implemented using **Python and NVIDIA Sionna** and exper
 ---
 
 ## System Architecture
+
+### System Model
+<p align="center">
+  <img src="figures/message_passing.png"
+       alt="Block Diagram"
+       width="650">
+</p>
 
 ### System Specifications
 
