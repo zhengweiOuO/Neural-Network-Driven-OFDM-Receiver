@@ -153,7 +153,7 @@ The provided `main.ipynb` demonstrates the main **MIMO-OFDM system configuration
 ## Project Poster
 
 <p align="center">
-  <img src="與「神」同行：神經網路驅動的OFDM高效接收機.png"
+  <img src="poster/與「神」同行：神經網路驅動的OFDM高效接收機.png"
        alt="Neural Network-Driven OFDM Receiver Project Poster"
        width="650">
 </p>
